@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-https://user-images.githubusercontent.com/57484386/107810963-78d86600-6d93-11eb-8ba7-363ff180a760.mp4
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:210.77%;position:relative;"><iframe width="260" height="548" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4xt6il"></iframe></div><p><a href="https://imgflip.com/gif/4xt6il">via Imgflip</a></p></div>
 
 ## Getting Started
 
