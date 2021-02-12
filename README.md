@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-![4xt6il](https://user-images.githubusercontent.com/57484386/107811353-06b45100-6d94-11eb-9cff-921b55b630cd.gif)
+![4xt7cn](https://user-images.githubusercontent.com/57484386/107811698-9823c300-6d94-11eb-9a98-f4314c33d29a.gif)
+
 
 ## Getting Started
 
